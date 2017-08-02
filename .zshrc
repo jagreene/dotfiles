@@ -14,7 +14,6 @@ export KEYTIMEOUT=1
 alias gca='git commit -a'
 alias nca='sudo netctl-auto'
 alias plz='sudo'
-alias please='sudo'
 alias rr='ranger'
 alias sx='startx'
 
