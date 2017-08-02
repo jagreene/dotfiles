@@ -24,7 +24,7 @@ zle -N down-line-or-beginning-search
 bindkey "^[[A" up-line-or-beginning-search # Up
 bindkey "^[[B" down-line-or-beginning-search # Down
 
-#regenerate with antigen bundle < .antigen_bundles > .zsh_plugins.sh
+#regenerate with antibody bundle < .antibody_bundles > .zsh_plugins.sh
 source .zsh_plugins.sh
 
 # OPAM configuration
