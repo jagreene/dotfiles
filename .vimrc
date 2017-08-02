@@ -1,6 +1,8 @@
 set nocompatible              " be iMproved, required
 filetype off                  " required
 
+" Initialize vundle
+set rtp+=~/.vim/bundle/Vundle.vim
 call vundle#begin()
 
 " Utility Plugins
